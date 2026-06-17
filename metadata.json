@@ -1,0 +1,6 @@
+{
+  "name": "Retro Snake",
+  "description": "A polished, responsive canvas-based Snake game with pixel art visuals, responsive touch controls, high scores, and adaptive speed logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
